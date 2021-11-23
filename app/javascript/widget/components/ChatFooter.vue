@@ -141,6 +141,7 @@ export default {
   text-align: center;
   text-decoration: none;
   display: none;
+  background: red;
 
   img {
     margin-right: $space-small;

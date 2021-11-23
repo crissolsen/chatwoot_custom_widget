@@ -12,7 +12,7 @@
         :src="globalConfig.logoThumbnail"
       />
       <span>
-        {{ useInstallationName($t('POWERED_BY'), globalConfig.brandName) }}
+        {{ useInstallationName($t('POWERED_BY'), 'HomeCode') }}
       </span>
     </a>
   </div>
