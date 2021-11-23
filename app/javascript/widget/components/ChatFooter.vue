@@ -131,13 +131,16 @@ export default {
 
 .branding {
   align-items: center;
-  color: $color-body;
+  color: red;
+  // color: $color-body;
   display: flex;
-  font-size: $font-size-default;
+  font-size: 10em;
+  // font-size: $font-size-default;
   justify-content: center;
   padding: $space-one;
   text-align: center;
   text-decoration: none;
+  display: none;
 
   img {
     margin-right: $space-small;
